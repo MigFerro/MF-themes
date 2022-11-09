@@ -1,0 +1,48 @@
+{
+  "name": "mf-light-theme",
+  "displayName": "MF Light Theme",
+  "description": "A light blue-ish gray theme",
+  "version": "0.0.1",
+  "publisher": "Miguel Ferro",
+  "author": {
+    "name": "Miguel Ferro"
+  },
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MigFerro/VSCode-Themes"
+  },
+  "bugs": {
+    "url": "https://github.com/MigFerro/VSCode-Themes/issues"
+  },
+  "galleryBanner": {
+    "theme": "light"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Miguel Ferro Theme",
+    "Light Theme",
+    "Blue Theme",
+    "Gray Theme",
+    "Blue Gray Theme",
+    "Light Gray Theme",
+    "gray",
+    "blue",
+    "light",
+    "theme",
+    "Miguel Ferro"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MF Light",
+        "uiTheme": "vs",
+        "path": "./themes/MF Light-color-theme.json"
+      }
+    ]
+  }
+}
